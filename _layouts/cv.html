@@ -1,0 +1,41 @@
+---
+layout: default
+---
+
+{{ content }}
+
+<div class="row g-5 mb-5">
+  <div>
+        <h3 class="fw-bold border-bottom pb-3 mb-5">CV {% if page.cv_pdf %} <a href="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url}}" target="_blank" rel="noopener noreferrer"><i class="fa fa-file-pdf-o"></i></a>{% endif %}</h3>
+    <!-- <div class="row g-5 mb-5">
+        <div class="col-md-3">
+            <h3 class="fw-bold border-bottom pb-3 mb-5">CV</h3>
+        </div>
+        <div class="col-md-9">
+            {% if page.cv_pdf %} <h3 class="fw-bold border-bottom pb-3 mb-5"><a href="{{ page.cv_pdf | prepend: 'assets/pdf/' | relative_url}}" target="_blank" rel="noopener noreferrer"><i class="fa fa-file-pdf-o" align="right"></i></a></h3>{% endif %}
+        </div>
+    </div> -->
+    <div class="row g-5 mb-5">
+      <div class="col-md-3">
+        <h4>Education</h4>
+      </div>
+      <div class="col-md-9">
+        {% for section in site.data.cv.education %}
+          <div class="fw-bold">{{ section.title }}</div>
+          <p>{{ section.description }}</p>
+        {% endfor %}
+      </div>
+    </div>
+    <div class="row g-5 mb-5">
+      <div class="col-md-3">
+        <h4>Academic Experience</h4>
+      </div>
+      <div class="col-md-9">
+        {% for section in site.data.cv.academic-experience %}
+          <div class="fw-bold">{{ section.title }}</div>
+          <p>{{ section.description }}</p>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+</div>

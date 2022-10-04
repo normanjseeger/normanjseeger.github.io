@@ -1,1 +1,0 @@
-# normanjseeger.github.io

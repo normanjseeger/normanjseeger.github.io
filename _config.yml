@@ -4,7 +4,8 @@
 markdown:            kramdown
 highlighter:         rouge
 permalink:           /:title
-plugins:             [jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
+url:                 https://normanjseeger.com
+plugins:             [jekyll-sitemap, jekyll-seo-tag]
 # plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 

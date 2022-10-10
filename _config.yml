@@ -1,18 +1,5 @@
 # Site Build Settings
 
-# Jekyll-paginate-v2 configuration
-#  pagination:
-#   enabled: true
-#   per_page: 5
-#   permalink: '/page/:num/'
-#   title: ':title - page :num of :max'
-#   limit: 0
-#   sort_field: 'date'
-#   sort_reverse: true
-
-# jekyll-paginate configuration
-# paginate:            5
-
 # Build settings
 markdown:            kramdown
 highlighter:         rouge
@@ -25,7 +12,3 @@ plugins:             [jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 title:		           'Norman J. Seeger'
 description:	       'Research & Data'
 author:              'Norman J. Seeger'
-
-# RSS 2.0 can be used instead of Atom by uncommenting following two lines
-#feed:
-#  path: rss-feed.xml

@@ -1,5 +1,7 @@
 # Site Build Settings
 
+baseurl: ""
+
 # Build settings
 markdown:            kramdown
 highlighter:         rouge

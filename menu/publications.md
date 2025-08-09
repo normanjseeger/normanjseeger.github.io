@@ -4,6 +4,9 @@ title: Publications
 permalink: /publications
 ---
 
+
+A jumping index of jumping stocks? An MCMC analysis of continuous-time models for individual stocks, Pollastri, A., Rodrigues, P., Schlag C. & Seeger, N.J., 2023, In: **Journal of Empirical Finance**, Volume 70, 2023, 322-341, 
+
 Price impact versus bid–ask spreads in the index option market, 
 Kaeck, A., van Kervel, V. & Seeger, N. J., Jun 2022, In: **Journal of Financial Markets**. 59, Part A, p. 1-22 22 p., 100675.
 

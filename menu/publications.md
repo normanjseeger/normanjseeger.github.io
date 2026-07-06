@@ -4,11 +4,14 @@ title: Publications
 permalink: /publications
 ---
 
+*Time-varying macroeconomic announcement risk,*\
+Michael Johannes, Norman J. Seeger, Jonathan R. Stroud, **Journal of Econometrics**, Volume 254, Part B, 2026, <https://doi.org/10.1016/j.jeconom.2026.106194>.
+
 *Non-Standard Errors,*\
 Menkveld, A. J., Dreber, A., Holzmeister, F., Huber, J., Johanneson, M., Kirchler, M., Razen, M., Weitzel, U., Abad, D., Abudy, M., Adrian, T., Ait-Sahalia, Y., Akmansoy, O., Alcock, J., Alexeev, V., Aloosh, A., Amato, L., Amaya, D., Angel, J. J., Bach, A. & 321 others, , 24 Nov 2021, **Journal of Finance**, Volume 79, Number 3, 2024, 2339-2390.
 
 *A jumping index of jumping stocks? An MCMC analysis of continuous-time models for individual stocks,*\
-Pollastri, A., Rodrigues, P., Schlag C. & Seeger, N.J., 2023, In: **Journal of Empirical Finance**, Volume 70, 2023, 322-341. 
+Pollastri, A., Rodrigues, P., Schlag C. & Seeger, N.J., 2023, In: **Journal of Empirical Finance**, Volume 70, 322-341.
 
 *Price impact versus bid–ask spreads in the index option market,*\
 Kaeck, A., van Kervel, V. & Seeger, N. J., Jun 2022, In: **Journal of Financial Markets**. 59, Part A, p. 1-22 22 p., 100675.

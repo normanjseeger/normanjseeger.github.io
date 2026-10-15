@@ -6,7 +6,7 @@ image: normanPhotoPortrait.jpg
 
 ### Research
 
-My primary research interests are the fields of asset pricing, financial econometrics, derivatives, commodities, international macroeconomics and finance. My research has been published in the Review of Financial Studies, Journal of Business & Economic Statistics, Journal of Economic Dynamics & Control, Journal of Financial Markets, Journal of Empirical Finance, Journal of Banking and Finance, European Journal of Operational Research and Journal of Futures Markets.
+My primary research interests are the fields of asset pricing, financial econometrics, derivatives, commodities, international macroeconomics and finance. My research has been published in the Journal of Finance, the Review of Financial Studies, Journal of Business & Economic Statistics, Journal of Economic Dynamics & Control, Journal of Financial Markets, Journal of Empirical Finance, Journal of Banking and Finance, European Journal of Operational Research and Journal of Futures Markets.
 
 ### Professional Information
 

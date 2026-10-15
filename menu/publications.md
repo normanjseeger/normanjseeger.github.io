@@ -4,8 +4,11 @@ title: Publications
 permalink: /publications
 ---
 
+*FOMC Announcement Event Risk,*\
+Johannes, Michael, Andreas Kaeck, and Norman J. Seeger, 2026, **Journal of Finance**, forthcoming.
+
 *Time-varying macroeconomic announcement risk,*\
-Michael Johannes, Norman J. Seeger, Jonathan R. Stroud, 2026, **Journal of Econometrics**, Volume 254, Part B, <https://doi.org/10.1016/j.jeconom.2026.106194>.
+Johannes, Michael, Norman J. Seeger, Jonathan R. Stroud, 2026, **Journal of Econometrics**, Volume 254, Part B, <https://doi.org/10.1016/j.jeconom.2026.106194>.
 
 *Non-Standard Errors,*\
 Menkveld, A. J., Dreber, A., Holzmeister, F., Huber, J., Johanneson, M., Kirchler, M., Razen, M., Weitzel, U., Abad, D., Abudy, M., Adrian, T., Ait-Sahalia, Y., Akmansoy, O., Alcock, J., Alexeev, V., Aloosh, A., Amato, L., Amaya, D., Angel, J. J., Bach, A. & 321 others, 24 Nov 2021, **Journal of Finance**, Volume 79, Number 3, 2024, 2339-2390.
